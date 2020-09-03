@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c466e64-20e8-4783-8f85-953c6c78756a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_climbing0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_defeated0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_defeated0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_defeated0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_defeated0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_defeated0017@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_jump_toss0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_toss0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_toss0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_walk0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_walk0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_walk0010@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_walk_and_fire0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_walk_fire_down0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_walk_fire_down0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_walk_lower0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_walk_lower0009@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_walk_lower0012@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_walk_toss0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/bro2_walk_toss0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_climbing0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_climbing0009@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_defeated0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_defeated0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_defeated0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_fire0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_fire0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_hurt0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_idle0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_idle0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_idle0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_jump0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_jump_toss0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_run0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_toss0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_toss0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk0012@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_and_fire0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_and_fire0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_and_fire0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_and_fire0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_and_fire0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_and_fire0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_fire_down0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_fire_down0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_lower0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_lower0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_lower0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_lower0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/bro2_walk_toss0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/ring_blast/ring_blast0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/star_burst/star_burst0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_climbing0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_climbing0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_climbing0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_climbing0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_defeated0009@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_defeated0012@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_defeated0021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_fire0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_hurt0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_hurt0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_jump0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_run0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_run0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_toss0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_toss0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk_and_fire0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk_and_fire0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk_and_fire0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk_fire_down0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk_fire_down0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk_fire_down0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk_lower0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk_lower0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk_lower0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk_toss0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/bro4_walk_toss0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_climbing0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_collect0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_collect0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_defeated0012@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_defeated0022@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_fire0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_fire0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_idle0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_idle0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_toss0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_walk0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_walk_and_fire0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_walk_and_fire0012@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_walk_fire_down0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_walk_lower0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/bro4_walk_toss0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/ring_blast/ring_blast0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/ring_blast/ring_blast0011@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/ring_blast/ring_blast0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/star_burst/star_burst0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_climbing0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_climbing0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_climbing0009@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_collect0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_defeated0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_defeated0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_defeated0013@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_defeated0015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_fire0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_hurt0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_idle0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_idle0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_jump0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_jump_toss0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_run0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_toss0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_walk0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_walk0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_walk0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_walk0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_walk_and_fire0014@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_walk_fire_down0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_walk_fire_down0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_walk_lower0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_walk_lower0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/bro3_walk_lower0012@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_climbing0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_defeated0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_defeated0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_defeated0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_defeated0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_defeated0015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_fire0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_idle0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_jump_toss0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_walk0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_walk0009@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_walk0012@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_walk_and_fire0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_walk_fire_down0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_walk_lower0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/bro3_walk_toss0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/ring_blast/ring_blast0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/star_burst/star_burst0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/star_burst/star_burst0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_collect0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_collect0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_hurt0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_jump0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_jump_toss0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_run0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_toss0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_toss0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_walk0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_walk0014@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_walk_and_fire0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_walk_fire_down0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_walk_lower0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_walk_lower0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_walk_lower0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_walk_lower0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_walk_toss0012@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/bro5_walk_toss0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_collect0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_collect0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_defeated0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_defeated0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_fire0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_fire0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_hurt0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_idle0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_jump_fire0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_jump_fire0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_jump_toss0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_run0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_toss0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_toss0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_walk0011@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_walk_and_fire0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_walk_lower0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/bro5_walk_lower0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/ring_blast/ring_blast0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/ring_blast/ring_blast0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/star_burst/star_burst0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/Adobe_Flash_or_Animate/FX/star_burst/star_burst0009@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_climbing0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_collect0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_defeated0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_defeated0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_fire0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_idle0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_idle0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_idle0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_jump_toss0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_run10002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_toss0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_walk_and_fire0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_walk_fire_down0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_walk_fire_down0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_walk_lower0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_walk_lower0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_walk_toss0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/bro1_walk_toss0011@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_climbing0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_climbing0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_climbing0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_collect0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_fire0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_jump_fire0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_jump_toss0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_run0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_run0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_toss0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_walk0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_walk0010@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_walk_and_fire0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_walk_fire_down0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/bro1_walk_lower0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_boss/boss_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_boss/ipadhd/boss_shoot_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/cc_enemy_soldier_die_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/cc_enemy_soldier_die_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/cc_enemy_soldier_handung_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/cc_enemy_soldier_handung_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/enemy_fast_run_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/enemy_tank_idle_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/enemy_tank_shoot_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/hd/cc_enemy_soldier_die_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/hd/cc_enemy_soldier_run_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/hd/cc_enemy_soldier_run_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/hd/enemy_fast_shoot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/ipadhd/cc_enemy_soldier.zss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/ipadhd/cc_enemy_soldier_die_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/ipadhd/enemy_fast_run_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/ipadhd/enemy_fast_shoot_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/cc_coins_gold_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/coin_silver_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/flagcheck_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/hd/flag_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/hd/flagcheck_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/ipadhd/cc_coins_gold_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/ipadhd/flag_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player/cc_player_knife_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player/hd/cc_player_knife_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player/ipadhd/cc_player.zss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_drink/cc_player_drink_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_drink/ipadhd/cc_player_drink_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_drink/ipadhd/cc_player_drink_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_dying/cc_player_dying_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_dying/hd/cc_player_dying_strip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_dying/ipadhd/cc_player_dying_strip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_idle/ipadhd/cc_player_idle_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_jump/cc_player_jump_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_jump/cc_player_jump_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_jump/hd/cc_player_jump_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_jump/ipadhd/cc_player_jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_jump/ipadhd/cc_player_jump_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute/cc_player_parachute_flying_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute/hd/cc_player_parachute_flying_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute/ipadhd/cc_player_parachute_flying_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute/ipadhd/cc_player_parachute_flying_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute_landing/cc_player_parachute_landing_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute_landing/cc_player_parachute_landing_14.pxm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute_landing/cc_player_parachute_landing_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute_landing/cc_player_parachute_landing_4.pxm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute_landing/cc_player_parachute_landing_7.pxm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute_landing/ipadhd/cc_player_parachute_landing_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute_landing/ipadhd/cc_player_parachute_landing_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_pistol_shooting/hd/cc_player_pistol_shooting_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_pistol_shooting/ipadhd/cc_player_pistol_shooting_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_run_pistol/cc_player_run_pistol.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_run_pistol/cc_player_run_pistol_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_run_pistol/cc_player_run_pistol_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_run_pistol/hd/cc_player_run_pistol_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_run_pistol/hd/cc_player_run_pistol_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_run_pistol/ipadhd/cc_player_run_pistol_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_win/cc_player_win_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/Weapon_Collection1/PNGS/axe4@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/Weapon_Collection1/PNGS/club1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/Weapon_Collection1/PNGS/club2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/Weapon_Collection1/PNGS/katana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/Weapon_Collection1/PNGS/knife2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/Weapon_Collection1/PNGS/sword_double_sided@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/jughead_idle0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/jughead_idle0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/jughead_idle_attack0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/jughead_idle_attack0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/jughead_idle_attack2_0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/jughead_jumping_attack2_0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/jughead_walking_attack0009@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/jughead_walking_crouched0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/jughead_walking_crouched_attack0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/jughead_walking_crouched_attack0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/jughead_walking_crouched_attack0011@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/door_closing/doors_closing0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/door_closing/doors_closing0004@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/door_opening/door_opening0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_fall/lava_fall0007@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_fall/lava_fall0010@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_green/lava_green0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_green/lava_green0006@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_orange/lava_orange0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_orange/lava_orange0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_orange/lava_orange0014@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/brick_wall2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/container_with_uranium@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/ground2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/ground2_extended@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/ground_under_lava@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/pipe_long@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/platform4_extension@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/railing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/resupply3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/resupply3@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/rock_wall3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/rock_wall4@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/tile_rock_brown@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/tile_rock_tint3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/tile_slate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/tile_slate@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/tile_wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/tile_wall2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/tile_wall5@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/uranium4@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/wall1@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/._BroStock_Arnie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/._Massive_Weapons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_climbing0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_collect0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_defeated0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_defeated0020@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_idle0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_jump0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_jump_toss0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_walk0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_walk_and_fire0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_walk_and_fire0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_walk_and_fire0010@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_walk_fire_down0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_walk_fire_down0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_walk_lower0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_walk_lower0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Arnie_Jungle/._bro2_walk_lower0011@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_climbing0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_climbing0011@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_collect0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_defeated0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_defeated0009@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_defeated0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_defeated0022@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_jump0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_jump_fire0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_jump_toss0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_jump_toss0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_jump_toss0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_run0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_toss0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_walk0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_walk0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_walk_and_fire0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_walk_fire_down0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_walk_lower0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_walk_toss0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/BroStock_Leather_Arnie/._bro2_walk_toss0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/ring_blast/._ring_blast0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/star_burst/._star_burst0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Arnie/PNG_Exports1x_and_2x/star_burst/._star_burst0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/Adobe_Flash_or_Animate/FX/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/._bro4_climbing0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/._bro4_collect0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/._bro4_defeated0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/._bro4_defeated0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/._bro4_hurt0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/._bro4_jump_toss0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/._bro4_walk0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/._bro4_walk0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/._bro4_walk_lower0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/._bro4_walk_lower0012@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/._bro4_walk_toss0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon/._bro4_walk_toss0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_climbing0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_climbing0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_defeated0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_defeated0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_defeated0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_fire0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_fire0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_hurt0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_idle0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_idle0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_idle0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_jump0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_jump0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_jump_toss0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_toss0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_walk0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_walk0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_walk0014@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_walk_and_fire0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_walk_and_fire0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_walk_and_fire0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_walk_fire_down0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_walk_lower0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_walk_lower0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/BroStock_Dillon_Hitman/._bro4_walk_toss0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/ring_blast/._ring_blast0012@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/star_burst/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/star_burst/._star_burst0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/star_burst/._star_burst0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Dillon/PNG_Exports1x_and_2x/star_burst/._star_burst0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_climbing0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_climbing0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_collect0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_defeated0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_defeated0016@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_hurt0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_idle0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_jump0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_jump0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_jump_fire0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_jump_fire0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_toss0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_walk0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_walk0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_walk_and_fire0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_walk_and_fire0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_walk_and_fire0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_walk_and_fire0011@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_walk_and_fire0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_walk_lower0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_walk_lower0013@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_walk_toss0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson/._bro3_walk_toss0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_climbing0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_collect0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_defeated0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_defeated0010@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_defeated0015@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_idle0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_jump0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_jump_fire0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_jump_fire0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_run0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_run0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_toss0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_walk0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_walk_and_fire0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_walk_and_fire0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_walk_and_fire0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_walk_lower0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/BroStock_Johnson_Hair/._bro3_walk_toss0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/ring_blast/._ring_blast0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/ring_blast/._ring_blast0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/ring_blast/._ring_blast0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Johnson/PNG_Exports1x_and_2x/ring_blast/._ring_blast0011@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/Adobe_Flash_or_Animate/._BroStock_Norris.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_climbing0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_climbing0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_climbing0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_collect0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_collect0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_defeated0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_fire0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_idle0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_jump0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_jump_toss0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_jump_toss0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_run0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_toss0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_walk0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_walk0011@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_walk_fire_down0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_walk_lower0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_walk_toss0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_walk_toss0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Classic_Norris/._bro5_walk_toss0013@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_climbing0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_climbing0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_climbing0009@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_collect0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_defeated0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_idle0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_jump_fire0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_jump_fire0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_run0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_toss0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_walk0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_walk0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_walk_and_fire0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_walk_and_fire0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_walk_and_fire0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_walk_fire_down0014@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_walk_lower0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_walk_lower0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_walk_lower0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/BroStock_Modern_Norris/._bro5_walk_toss0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/ring_blast/._ring_blast0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/ring_blast/._ring_blast0011@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/star_burst/._star_burst0007@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Norris/PNG_Exports1x_and_2x/star_burst/._star_burst0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/Adobe_Flash_or_Animate/._BroStock_Sly_Classic.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/Adobe_Flash_or_Animate/._BroStock_Sly_Modern.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/Adobe_Flash_or_Animate/FX/ring_blast/._ring_blast0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/Adobe_Flash_or_Animate/FX/ring_blast/._ring_blast0011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_climbing0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_climbing0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_idle0005@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_idle0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_jump0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_jump_fire0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_jump_toss0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_run10002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_run10005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_run10006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_toss0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_toss0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_toss0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_walk0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_walk_and_fire0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_walk_and_fire0013@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_walk_fire_down0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_walk_fire_down0014@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_walk_lower0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_walk_toss0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_walk_toss0009@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BroStock_Sly_Classic/._bro1_walk_toss0012@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_climbing0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_collect0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_defeated0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_defeated0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_fire0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_hurt0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_jump0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_jump0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_jump_fire0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_jump_toss0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_run0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_toss0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_toss0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_walk0008@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_walk_and_fire0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_walk_and_fire0007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_walk_and_fire0014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_walk_fire_down0006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_walk_fire_down0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_walk_fire_down0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_walk_fire_down0013@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_walk_lower0014@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_walk_toss0013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/BroStock_Sly/PNG_Exports1x_and_2x/BrosStock_Sly_Modern/._bro1_walk_toss0013@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/Massive_Weapons/PNG/._Acme_Bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/Massive_Weapons/PNG/._Bad_letter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/Massive_Weapons/PNG/._dirty_bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/Massive_Weapons/PNG/._uranium.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/._cc_player_dying" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/._cc_player_jump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/._cc_player_pistol_shooting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/._cc_weapons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_boss/._boss_shoot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_boss/ipadhd/._boss_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/._cc_enemy_soldier_die_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/._cc_enemy_soldier_die_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/._cc_enemy_soldier_handung_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/._cc_enemy_soldier_handung_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/._cc_enemy_soldier_handung_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/._cc_enemy_soldier_run_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/._enemy_tank_shoot_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/hd/._cc_enemy_soldier_die_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/hd/._cc_enemy_soldier_handung_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/hd/._cc_enemy_soldier_run_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/hd/._cc_enemy_soldier_run_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/hd/._enemy_fast_shoot_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/ipadhd/._cc_enemy_soldier_handung_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/ipadhd/._enemy_fast_run_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/ipadhd/._enemy_fast_shoot_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_enemy_soldier/ipadhd/._enemy_tank_shoot_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/._coin_silver_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/._coin_silver_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/._flagcheck_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/hd/._cc_coins_gold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/hd/._cc_coins_gold_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/ipadhd/._coin_silver_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_items/ipadhd/._flagcheck_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player/ipadhd/._cc_player_knife_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_drink/hd/._cc_player_drink_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_drink/hd/._cc_player_drink_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_drink/ipadhd/._cc_player_drink_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_dying/._cc_player_dying_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_dying/hd/._cc_player_dying_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_go/hd/._cc_player_go_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_go/ipadhd/._cc_player_go_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_idle/._hd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_jump/._cc_player_jump-strip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_jump/hd/._cc_player_jump_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_jump/ipadhd/._cc_player_jump_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute/._cc_player_parachute.zss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute/._cc_player_parachute_flying_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute/hd/._cc_player_parachute_flying_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute/ipadhd/._cc_player_parachute_flying_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_parachute_landing/ipadhd/._cc_player_parachute_landing_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_pistol_shooting/._hd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_pistol_shooting/ipadhd/._cc_player_pistol_shooting_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_run_pistol/._cc_player_run_pistol_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_player_run_pistol/._cc_player_run_pistol_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_weapons/._bullets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_weapons/._mine_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_weapons/hd/._bullets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/The_Commander_Pixel_Art/cc_weapons/hd/._weapon_mp5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/Weapon_Collection1/PNGS/._axe4@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/Weapon_Collection1/PNGS/._carrier@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/Weapon_Collection1/PNGS/._katana@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/Weapon_Collection1/PNGS/._staff1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/Weapon_Collection1/PNGS/._tonfa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._hero_climbing0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._hero_jumping_attack0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._jughead_dead0001@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._jughead_dead0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._jughead_idle0001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._jughead_idle0002@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._jughead_idle_attack2_0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._jughead_jumping_attack2_0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._jughead_walking0002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._jughead_walking_attack0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._jughead_walking_attack0009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._jughead_walking_crouched_attack0005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._jughead_walking_crouched_attack0006@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Jughead/PNG_Exports_1x_2x/._jughead_walking_crouched_attack0012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/._lava_green" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/conveyor_belt/._conveyor_belt0004@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/door_closing/._doors_closing0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/door_closing/._doors_closing0008@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/door_opening/._door_opening0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_fall/._lava_fall0003@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_fall/._lava_fall0008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_green/._lava_green0004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_green/._lava_green0014@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_orange/._lava_orange0003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_orange/._lava_orange0010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_orange/._lava_orange0011@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/Animations/lava_orange/._lava_orange0016@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._background_rounded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._ground_extended@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._key_card_needed_box@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._light2@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._pipe_long.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._pipe_mid@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._platform4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._platform4@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._platform4_extension@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._platform_rail2@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._platform_rail3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._platform_simple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._resupply4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._resupply4@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._rock_wall2@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._spike2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._tile_rock_tint1@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._tile_slate@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._tile_wall3@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._wall1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GameArtPartners_Freebies/__MACOSX/GameArtPartners_Freebies/WorldWarMech_Lava_Station/PNG_Exports_1x_2x_3x/._wall_with_window2@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anhh.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bird.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gu5cAcjARPkUzSCZLSPmlK2ybH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c466e64-20e8-4783-8f85-953c6c78756a" name="Default Changelist" comment="" />
+      <created>1598951714192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598951714192</updated>
+      <workItem from="1598951715297" duration="1374000" />
+      <workItem from="1598953488504" duration="991000" />
+      <workItem from="1598954574346" duration="69000" />
+      <workItem from="1598954680339" duration="457000" />
+      <workItem from="1598960712589" duration="310000" />
+      <workItem from="1599007923310" duration="4291000" />
+      <workItem from="1599050224920" duration="7111000" />
+      <workItem from="1599094595063" duration="10089000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599091291138">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599091291138" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1598954414795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1598954414795" />
+    <state x="437" y="84" key="RollbackChangesDialog" timestamp="1599091681407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599091681407" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1598954643394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598954643394" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1599091690862">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599091690862" />
+  </component>
+</project>
