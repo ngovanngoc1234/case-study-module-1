@@ -1,11 +1,13 @@
-let superHero, bg_01, gold, bg_02, bg_03;
+let superHero, bg_01, gold, bg_02, bg_03, Bomb, bg_11;
 
 function startGame() {
     superHero = new component(30, 50, "images/hero-idle.gif", 10, 230, "image", 'bg1');
-    bg_01 = new component(700, 300, "images/bg-3.png", 0, 0, "background", 'bg');
-    bg_02 = new component(700, 300, "images/bg-2.png", 0, 0, "background", 'bg');
-    bg_03 = new component(700, 300, "images/bg-4.png", 0, 0, "background", 'bg');
-    gold = new component(20, 20, "images/cc_coins_gold_7.png", 650, 270, "image", 'gold');
+    bg_11 = new component(700, 300, "image/11_background.png", 0, 0, "background", 'bg');
+    bg_01 = new component(700, 300, "image/01_ground.png", 0, 10, "background", 'bg');
+    bg_02 = new component(700, 300, "image/02_trees and bushes.png", 0, 50, "background", 'bg');
+    bg_03 = new component(700, 300, "image/03_distant_trees.png", 0, 0, "background", 'bg');
+    Bomb = new component(50, 50, "image/Acme_Bomb.png", 600, 200, "image", "bg10");
+    gold = new component(30, 30, "images/cc_coins_gold_7.png", 650, 230, "image", 'gold');
     myGameArea.start();
 }
 
@@ -16,6 +18,7 @@ let myGameArea = {
         this.canvas.height = 300;
         this.context = this.canvas.getContext("2d");
         document.body.insertBefore(this.canvas, document.body.childNodes[0]);
+        this.frameNo = 0;
         window.addEventListener('keydown', function (e) {
             myGameArea.key = e.keyCode;
         })
@@ -31,11 +34,12 @@ let myGameArea = {
     stop: function () {
         clearInterval(this.interval);
         alert('Game Over');
-    }
+        window.location.reload();
+    },
 }
 
-function component(width, height, img, x, y, type, nhanvat) {
-    this.nhanvat = nhanvat;
+function component(width, height, img, x, y, type, figure) {
+    this.figure = figure;
     this.type = type;
     if (type === "image" || type === "background") {
         this.image = new Image();
@@ -86,9 +90,22 @@ function component(width, height, img, x, y, type, nhanvat) {
                 this.y = 0;
             }
         }
+        if (this.figure === "bg1") {
+            if (this.x === this.width && this.y === this.height) {
+                this.x = 0;
+                this.y = 0;
+            }
+        }
 
-        if (this.nhanvat === 'gold') {
+        if (this.figure === 'gold') {
             this.x += -2;
+            if (this.x <= 0) {
+                this.x = myGameArea.canvas.width;
+            }
+        }
+
+        if (this.figure === "bg10") {
+            this.x += -1;
             if (this.x <= 0) {
                 this.x = myGameArea.canvas.width;
             }
@@ -116,20 +133,34 @@ function component(width, height, img, x, y, type, nhanvat) {
 
 function updateGameArea() {
     if (superHero.crashWith(gold)) {
+        myGameArea.frameNo += 1;
+    }
+    if (superHero.crashWith(Bomb)) {
         myGameArea.stop();
+
     } else {
         myGameArea.clear();
-        bg_01.speedX = -4;
+
+
+        document.getElementById('1').innerHTML = "SCORE: " + myGameArea.frameNo;
+
+        gold.update();
+        gold.newPos();
+
+        Bomb.update();
+        Bomb.newPos();
+
+        bg_01.speedX = 0;
         bg_01.newPos();
         bg_01.update();
 
-        bg_02.speedX = -4;
-        bg_02.newPos();
-        bg_02.update();
-
-        bg_03.speedX = 0;
+        bg_03.speedX = -0.5;
         bg_03.newPos();
         bg_03.update();
+
+        bg_02.speedX = -2;
+        bg_02.update();
+        bg_02.newPos();
 
         gold.update();
         gold.newPos();
@@ -137,6 +168,8 @@ function updateGameArea() {
         superHero.newPos();
         superHero.update();
 
+        Bomb.update();
+        Bomb.newPos();
         ClearMove();
     }
 }
@@ -165,4 +198,3 @@ function ClearMove(e) {
         accelerate(-0.2)
     }
 }
-
