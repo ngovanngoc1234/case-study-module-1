@@ -20,13 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c466e64-20e8-4783-8f85-953c6c78756a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/background.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/ring_blast0004@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bomb.js" beforeDir="false" afterPath="$PROJECT_DIR$/bomb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gold.js" beforeDir="false" afterPath="$PROJECT_DIR$/gold.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +93,7 @@
       <workItem from="1599201378600" duration="35000" />
       <workItem from="1599201429621" duration="167000" />
       <workItem from="1599201635308" duration="1118000" />
-      <workItem from="1599202889301" duration="5384000" />
+      <workItem from="1599202889301" duration="6237000" />
     </task>
     <servers />
   </component>

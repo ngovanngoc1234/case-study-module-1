@@ -131,7 +131,8 @@ function supperHero(width, height, img, x, y, type, figure) {
 function updateGameArea() {
     if (superHero.crashWith(gold)) {
         myGameArea.frameNo += 1;
-        startGame();
+        Bomb.speedX -=0.005
+        gold.speedX -=0.05
     }
     if (superHero.crashWith(Bomb)) {
         superHero.image.src = "image/ring_blast0004@2x.png";
