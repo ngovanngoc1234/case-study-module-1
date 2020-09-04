@@ -1,8 +1,8 @@
-let superHero, bg_01, gold, bg_02, bg_03, Bomb, bg_11;
+let superHero, bg_01, gold, bg_02, bg_03, Bomb, bg_4;
 
 function startGame() {
     superHero = new component(30, 50, "images/hero-idle.gif", 10, 230, "image", 'bg1');
-    bg_11 = new component(700, 300, "image/11_background.png", 0, 0, "background", 'bg');
+    bg_4 = new component(700, 300, "image/11_background.png", 0, 0, "background", 'bg');
     bg_01 = new component(700, 300, "image/01_ground.png", 0, 10, "background", 'bg');
     bg_02 = new component(700, 300, "image/02_trees and bushes.png", 0, 50, "background", 'bg');
     bg_03 = new component(700, 300, "image/03_distant_trees.png", 0, 0, "background", 'bg');
@@ -14,11 +14,11 @@ function startGame() {
 let myGameArea = {
     canvas: document.createElement("canvas"),
     start: function () {
+        this.frameNo = 0;
         this.canvas.width = 700;
         this.canvas.height = 300;
         this.context = this.canvas.getContext("2d");
         document.body.insertBefore(this.canvas, document.body.childNodes[0]);
-        this.frameNo = 0;
         window.addEventListener('keydown', function (e) {
             myGameArea.key = e.keyCode;
         })
@@ -72,12 +72,14 @@ function component(width, height, img, x, y, type, figure) {
             ctx.fillRect(this.x, this.y, this.width, this.height);
         }
     }
+
     this.newPos = function () {
         this.gravitySpeed += this.gravity;
         this.x += this.speedX;
         this.y += this.speedY + this.gravitySpeed;
         this.hitBottom();
     }
+
     this.hitBottom = function () {
         let rockBottom = myGameArea.canvas.height - this.height;
         if (this.y > rockBottom) {
@@ -91,9 +93,9 @@ function component(width, height, img, x, y, type, figure) {
             }
         }
         if (this.figure === "bg1") {
-            if (this.x === this.width && this.y === this.height) {
-                this.x = 0;
-                this.y = 0;
+            if (this.x <= myGameArea.canvas.width && this.y <= myGameArea.canvas.height) {
+                this.speedX = 0;
+                this.speedY = 0;
             }
         }
 
@@ -111,6 +113,7 @@ function component(width, height, img, x, y, type, figure) {
             }
         }
     }
+
     this.crashWith = function (b) {
         let myLeft = this.x;
         let myRight = this.x + (this.width);
@@ -140,8 +143,6 @@ function updateGameArea() {
 
     } else {
         myGameArea.clear();
-
-
         document.getElementById('1').innerHTML = "SCORE: " + myGameArea.frameNo;
 
         gold.update();
