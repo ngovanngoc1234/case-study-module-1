@@ -1,3 +1,9 @@
+function starBom() {
+    Bom = new bomb(50, 50, "image/Acme_Bomb.png", 600, 200, "image", "bg10");
+    myGameArea.start();
+}
+let Bom;
+
 function bomb(width, height, img, x, y, type, figure) {
     this.figure = figure;
     if (type === "image") {
@@ -43,4 +49,13 @@ function bomb(width, height, img, x, y, type, figure) {
             }
         }
     }
+}
+
+function updateGameArea() {
+    if (superHero.crashWith(Bomb)) {
+        superHero.image.src = "image/ring_blast0004@2x.png";
+        myGameArea.stop();
+    }
+    Bom.update();
+    Bom.newPos();
 }
