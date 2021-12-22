@@ -9,7 +9,6 @@ function startGame() {
     Bomb = new supperHero(50, 50, "image/Acme_Bomb.png", 600, 200, "image", "bg10");
     gold = new supperHero(30, 30, "images/cc_coins_gold_7.png", 650, 230, "image", 'gold');
     myGameArea.start();
-
 }
 
 let myGameArea = {
@@ -53,23 +52,28 @@ function supperHero(width, height, img, x, y, type, figure) {
     this.y = y;
     this.gravity = 0.05;
     this.gravitySpeed = 0;
-
+    this.destroyed = false;
+    this.clear = function(){
+        this.destroyed = true;
+    }
     this.update = function () {
-        let ctx = myGameArea.context;
-        if (type === "image" || type === "background") {
-            ctx.drawImage(this.image,
-                this.x,
-                this.y,
-                this.width, this.height);
-            if (type === "background") {
+        if(!this.destroyed){
+            let ctx = myGameArea.context;
+            if (type === "image" || type === "background") {
                 ctx.drawImage(this.image,
-                    this.x + this.width,
+                    this.x,
                     this.y,
                     this.width, this.height);
+                if (type === "background") {
+                    ctx.drawImage(this.image,
+                        this.x + this.width,
+                        this.y,
+                        this.width, this.height);
+                }
+            } else {
+                ctx.fillStyle = img;
+                ctx.fillRect(this.x, this.y, this.width, this.height);
             }
-        } else {
-            ctx.fillStyle = img;
-            ctx.fillRect(this.x, this.y, this.width, this.height);
         }
     }
 
@@ -133,44 +137,44 @@ function updateGameArea() {
         myGameArea.frameNo += 1;
         Bomb.speedX -=0.005
         gold.speedX -=0.05
+        gold.clear();
     }
     if (superHero.crashWith(Bomb)) {
         superHero.image.src = "image/ring_blast0004@2x.png";
         myGameArea.stop();
-
-    } else {
-        myGameArea.clear();
-        document.getElementById('1').innerHTML = "SCORE: " + myGameArea.frameNo;
-        Bomb.update();
-        Bomb.newPos();
-
-        gold.update();
-        gold.newPos();
-
-
-
-        bg_01.speedX = 0;
-        bg_01.newPos();
-        bg_01.update();
-
-        bg_03.speedX = -0.5;
-        bg_03.newPos();
-        bg_03.update();
-
-        bg_02.speedX = -2;
-        bg_02.update();
-        bg_02.newPos();
-
-        gold.update();
-        gold.newPos();
-
-        superHero.newPos();
-        superHero.update();
-
-        Bomb.update();
-        Bomb.newPos();
-        ClearMove();
     }
+    myGameArea.clear();
+    document.getElementById('1').innerHTML = "SCORE: " + myGameArea.frameNo;
+    Bomb.update();
+    Bomb.newPos();
+
+    if(gold){
+        gold.update();
+        gold.newPos();
+    }
+
+    bg_01.speedX = 0;
+    bg_01.newPos();
+    bg_01.update();
+
+    bg_03.speedX = -0.5;
+    bg_03.newPos();
+    bg_03.update();
+
+    bg_02.speedX = -2;
+    bg_02.update();
+    bg_02.newPos();
+
+    if(gold){
+        gold.update();
+        gold.newPos();
+    }
+    superHero.newPos();
+    superHero.update();
+
+    Bomb.update();
+    Bomb.newPos();
+    ClearMove();
 }
 
 function accelerate(n) {
@@ -181,6 +185,10 @@ function move() {
     superHero.speedX = 0;
     superHero.speedY = 0;
     superHero.image.src = "images/run.gif";
+}
+
+function clearGold() {
+
 }
 
 function ClearMove() {
